@@ -1,0 +1,22 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Back-end application for EventEdge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/software-students-fall2021/memphis-holistic-eventedge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/software-students-fall2021/memphis-holistic-eventedge/issues"
+  },
+  "homepage": "https://github.com/software-students-fall2021/memphis-holistic-eventedge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
